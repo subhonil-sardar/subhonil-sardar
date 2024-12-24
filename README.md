@@ -16,6 +16,10 @@
 
 <p> Node.js, Mongodb, Express.js  </p>
 
+### **👩‍💻 Others software** 
+
+<p> Photoshop, Figma, Visual Code Studio  </p>
+
 ---
 
 <p align="center">
@@ -31,5 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60">
+
 </p>
 
