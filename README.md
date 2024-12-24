@@ -23,8 +23,8 @@
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952qs0ik34iopbpy7zps7c9z437zwhq2b2s3l2nqxgh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF 1" width="400px" >
-  <img src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952ttjp73nt2cj9tmkh06fra0en18m289lf1ljf5csv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g " alt="GIF 2" width="300px >
+  <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952qs0ik34iopbpy7zps7c9z437zwhq2b2s3l2nqxgh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="GIF 1" width="400px">
+  <img src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952ttjp73nt2cj9tmkh06fra0en18m289lf1ljf5csv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g " alt="GIF 2" width="300px" >
 </div>
 
 <p align="center">
