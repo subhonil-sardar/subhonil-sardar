@@ -22,6 +22,9 @@
 
 ---
 
+![Programmer Coding](https://media.giphy.com/media/XYZ123/giphy.gif)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
