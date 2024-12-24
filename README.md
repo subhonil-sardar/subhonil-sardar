@@ -22,7 +22,7 @@
 
 ---
 
-![Programmer Coding](https://media.giphy.com/media/XYZ123/giphy.gif)
+![Programmer Coding](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952qs0ik34iopbpy7zps7c9z437zwhq2b2s3l2nqxgh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 
 <p align="center">
