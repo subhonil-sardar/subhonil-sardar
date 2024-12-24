@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Subhonil Sardar!
 
-![Banner](./)
+![Banner](./Linkedin-banner frontend.jpg)
