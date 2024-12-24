@@ -10,4 +10,8 @@
 
 ### **👩‍💻 Frontend Development**
 
-<p> React.js, Bootstrap, JavaScript, Tailwind css, Sass, Typescript  </p>
+<p> React.js, Bootstrap, JavaScript, Tailwind css, Sass, Typescript, Next.js  </p>
+
+### **👩‍💻 Backend Development**
+
+<p> Node.js, Mongodb, Express.js  </p>
