@@ -27,6 +27,8 @@
   <img src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952ttjp73nt2cj9tmkh06fra0en18m289lf1ljf5csv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g " alt="GIF 2" >
 </div>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
