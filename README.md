@@ -6,3 +6,8 @@
 
 ---
 
+## 🌟 Skills & Technologies
+
+### **👩‍💻 Frontend Development**
+
+<p> React.js, Bootstrap, JavaScript, Tailwind css, Sass, Typescript  </p>
