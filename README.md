@@ -19,12 +19,12 @@
 <h2>
 👨‍💻 About Me</h2>
 <ul>
-  <li>💻 I'm a Full-Stack Developer specializing in the MERN Stack.</li>
-  <li>⚛️ Skilled in React.js and Next.js for modern frontend development.</li>
-  <li>🌐 Passionate about building responsive and user-friendly web applications.</li>
-  <li>🛠️ Interested in both frontend and backend development.</li>
-  <li>📚 Always learning new technologies and improving my coding skills.</li>
-  <li>🎯 Focused on writing clean, maintainable, and efficient code.</li>
+  <li><b>💻 I'm a Full-Stack Developer specializing in the MERN Stack.</b></li>
+  <li><b>⚛️ Skilled in React.js and Next.js for modern frontend development.</b></li>
+  <li><b>🌐 Passionate about building responsive and user-friendly web applications.</b></li>
+  <li><b>🛠️ Interested in both frontend and backend development.</b></li>
+  <li><b>📚 Always learning new technologies and improving my coding skills.</b></li>
+  <li><b>🎯 Focused on writing clean, maintainable, and efficient code.</b></li>
 </ul>
 
 ---
