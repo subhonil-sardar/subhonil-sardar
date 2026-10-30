@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subhonil Sardar!
+# 👋 Hi, I'm Subhanil Sardar!
 
 ![Banner](./Linkedin-banner%20frontend.jpg)
 
