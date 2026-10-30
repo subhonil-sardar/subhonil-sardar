@@ -14,8 +14,18 @@
   Passionate Full-Stack Developer focused on building modern, responsive, and scalable web applications.
 </p>
 
+---
 
-## 👉 Welcome to my GitHub profile! Here’s a little about me:
+<h2>
+👨‍💻 About Me</h2>
+<ul>
+  <li>💻 I'm a Full-Stack Developer specializing in the MERN Stack.</li>
+  <li>⚛️ Skilled in React.js and Next.js for modern frontend development.</li>
+  <li>🌐 Passionate about building responsive and user-friendly web applications.</li>
+  <li>🛠️ Interested in both frontend and backend development.</li>
+  <li>📚 Always learning new technologies and improving my coding skills.</li>
+  <li>🎯 Focused on writing clean, maintainable, and efficient code.</li>
+</ul>
 
 ---
 
