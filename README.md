@@ -2,6 +2,13 @@
 
 ![Banner](./Linkedin-banner%20frontend.jpg)
 
+<h3 align="center">
+  🚀 MERN Stack Developer | Next.js Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+</p>
 ## 👉 Welcome to my GitHub profile! Here’s a little about me:
 
 ---
